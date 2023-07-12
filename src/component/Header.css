@@ -1,0 +1,21 @@
+.header-container {
+ max-width: 1280px;
+ height: 80px;
+ padding: 0 76px;
+ 
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ position: sticky;
+ box-shadow:rgba(0, 0, 0, 0.2) 0px 8px 8px 0px;
+}
+
+span.logo-title{
+    font-size: 32px;
+    font-weight: bold;
+    padding-left: 12px;
+}
+
+div.logo-container {
+    display: flex;
+}

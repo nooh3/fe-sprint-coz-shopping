@@ -1,11 +1,11 @@
+import Main from "./pages/Main";
+import './App.css'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-       <div><img link alt="logo" />
-            <img alt="button" />
-       </div>
+       <Main></Main>
       </header>
     </div>
   );
