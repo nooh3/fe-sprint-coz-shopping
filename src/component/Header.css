@@ -14,8 +14,13 @@ span.logo-title{
     font-size: 32px;
     font-weight: bold;
     padding-left: 12px;
+    cursor: pointer;
 }
 
 div.logo-container {
     display: flex;
+}
+
+img {
+    cursor: pointer;
 }
