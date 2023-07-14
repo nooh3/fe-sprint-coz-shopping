@@ -1,0 +1,10 @@
+footer {
+    max-width: 1280px;
+    height: 58px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: gray;
+    border-top: 2px solid rgba(136, 136, 136, 0.1);
+}
